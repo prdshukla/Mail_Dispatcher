@@ -1,0 +1,9 @@
+C:\DMV\Mail_dispatcher\MailDispatcher\bin\Debug\MailDispatcher.dll
+C:\DMV\Mail_dispatcher\MailDispatcher\bin\Debug\MailDispatcher.pdb
+C:\DMV\Mail_dispatcher\MailDispatcher\bin\Debug\MailDispatcher.xml
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\MailDispatcher.Resources.resources
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\MailDispatcher.vbproj.GenerateResource.Cache
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\MailDispatcher.dll
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\MailDispatcher.xml
+C:\DMV\Mail_dispatcher\MailDispatcher\obj\Debug\MailDispatcher.pdb
